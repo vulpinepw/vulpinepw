@@ -11522,7 +11522,8 @@
         "labelColor": "#f0f0f0",
         "headerColor": "#ffb800",
         "statsValColor": "#ffb800",
-        "hideDecorations": true
+        "hideDecorations": true,
+        "showAchievements": false
       },
       "locked": false,
       "visible": true,
@@ -11720,7 +11721,7 @@
       "name": "Awesome-badge Widget",
       "position": {
         "x": 413,
-        "y": 1370
+        "y": 1360
       },
       "size": {
         "width": 360,
@@ -11741,7 +11742,7 @@
       "name": "Views-counter Widget",
       "position": {
         "x": 493,
-        "y": 1634
+        "y": 1624
       },
       "size": {
         "width": 200,
@@ -11762,7 +11763,7 @@
       "name": "Ghstats Widget",
       "position": {
         "x": 0,
-        "y": 1372
+        "y": 1360
       },
       "size": {
         "width": 390,
@@ -11782,7 +11783,7 @@
       "name": "Ascii-art Widget",
       "position": {
         "x": 473,
-        "y": 1412
+        "y": 1402
       },
       "size": {
         "width": 240,
@@ -23282,13 +23283,13 @@
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#060606",
+    "backgroundColor": "transparent",
     "textColor": "#e5e5e5",
     "accentColor": "#ffb800",
-    "borderColor": "#252525",
+    "borderColor": "#1f1f1f",
     "fontFamily": "Roboto",
     "borderRadius": 0,
-    "padding": 0,
+    "padding": 64,
     "themeMode": "dark",
     "templateStyle": "terminal",
     "transparentBackground": false
