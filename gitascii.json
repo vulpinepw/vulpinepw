@@ -11563,7 +11563,7 @@
       "name": "Stats Widget",
       "position": {
         "x": 0,
-        "y": 316
+        "y": 312
       },
       "size": {
         "width": 800,
@@ -11700,7 +11700,7 @@
       "name": "Profile-trophy Widget",
       "position": {
         "x": 0,
-        "y": 1144
+        "y": 1550
       },
       "size": {
         "width": 800,
@@ -11721,7 +11721,7 @@
       "name": "Awesome-badge Widget",
       "position": {
         "x": 413,
-        "y": 1360
+        "y": 1182
       },
       "size": {
         "width": 360,
@@ -11742,7 +11742,7 @@
       "name": "Views-counter Widget",
       "position": {
         "x": 493,
-        "y": 1624
+        "y": 1446
       },
       "size": {
         "width": 200,
@@ -11763,7 +11763,7 @@
       "name": "Ghstats Widget",
       "position": {
         "x": 0,
-        "y": 1360
+        "y": 1182
       },
       "size": {
         "width": 390,
@@ -11783,7 +11783,7 @@
       "name": "Ascii-art Widget",
       "position": {
         "x": 473,
-        "y": 1402
+        "y": 1224
       },
       "size": {
         "width": 240,
