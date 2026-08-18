@@ -1,11 +1,10 @@
 {
-  "username": "vulpinepw",
   "widgets": [
     {
       "widgetId": "ascii-art",
       "position": {
         "x": 0,
-        "y": 12
+        "y": 14
       },
       "size": {
         "width": 280,
@@ -11511,7 +11510,7 @@
       "widgetId": "terminal-info",
       "position": {
         "x": 280,
-        "y": 12
+        "y": 14
       },
       "size": {
         "width": 504,
@@ -23229,6 +23228,5 @@
     "templateStyle": "terminal",
     "transparentBackground": false
   },
-  "templateId": "terminal",
-  "profileSlug": "default"
+  "templateId": "terminal"
 }
