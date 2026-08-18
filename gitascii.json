@@ -1,4 +1,5 @@
 {
+  "username": "vulpinepw",
   "widgets": [
     {
       "widgetId": "ascii-art",
@@ -23217,7 +23218,7 @@
     }
   ],
   "globalStyles": {
-    "backgroundColor": "transparent",
+    "backgroundColor": "#000000",
     "textColor": "#e5e5e5",
     "accentColor": "#ffb800",
     "borderColor": "#1f1f1f",
@@ -23228,5 +23229,6 @@
     "templateStyle": "terminal",
     "transparentBackground": false
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default"
 }
