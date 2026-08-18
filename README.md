@@ -1,4 +1,4 @@
-<a href="https://www.gitascii.com">
+<a href="https://vulpine.at">
   <img
     src="https://www.gitascii.com/api/vulpinepw?v=1787042791349"
     alt="GitAscii Widget"
