@@ -11535,7 +11535,7 @@
       "widgetId": "languages",
       "position": {
         "x": 0,
-        "y": 424
+        "y": 428
       },
       "size": {
         "width": 800,
@@ -11587,7 +11587,7 @@
       "name": "Tech-stack Widget",
       "position": {
         "x": 0,
-        "y": 556
+        "y": 560
       },
       "size": {
         "width": 800,
@@ -11633,34 +11633,12 @@
       "zIndex": 5
     },
     {
-      "instanceId": "widget_1787040966385",
-      "widgetId": "contribution-snake",
-      "name": "Contribution-snake Widget",
-      "position": {
-        "x": 0,
-        "y": 712
-      },
-      "size": {
-        "width": 800,
-        "height": 250
-      },
-      "config": {
-        "hideBorder": true,
-        "hideDecorations": true,
-        "branch": "main",
-        "theme": "dark"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 6
-    },
-    {
       "instanceId": "widget_1787040987142",
       "widgetId": "github-readme-stats",
       "name": "Github-readme-stats Widget",
       "position": {
-        "x": 4,
-        "y": 954
+        "x": 6,
+        "y": 1028
       },
       "size": {
         "width": 390,
@@ -11676,75 +11654,12 @@
       "zIndex": 7
     },
     {
-      "instanceId": "widget_1787040989771",
-      "widgetId": "streak-stats",
-      "name": "Streak-stats Widget",
-      "position": {
-        "x": 398,
-        "y": 956
-      },
-      "size": {
-        "width": 390,
-        "height": 200
-      },
-      "config": {
-        "hideBorder": true,
-        "hideDecorations": true,
-        "showTitle": false
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 8
-    },
-    {
-      "instanceId": "widget_1787041082447",
-      "widgetId": "profile-trophy",
-      "name": "Profile-trophy Widget",
-      "position": {
-        "x": 0,
-        "y": 1550
-      },
-      "size": {
-        "width": 800,
-        "height": 200
-      },
-      "config": {
-        "showTitle": true,
-        "hideDecorations": true,
-        "hideBorder": true
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 9
-    },
-    {
-      "instanceId": "widget_1787041128736",
-      "widgetId": "awesome-badge",
-      "name": "Awesome-badge Widget",
-      "position": {
-        "x": 413,
-        "y": 1182
-      },
-      "size": {
-        "width": 360,
-        "height": 80
-      },
-      "config": {
-        "showTitle": false,
-        "hideBorder": true,
-        "hideDecorations": true
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 10
-    },
-    {
       "instanceId": "widget_1787041130739",
       "widgetId": "views-counter",
       "name": "Views-counter Widget",
       "position": {
-        "x": 493,
-        "y": 1446
+        "x": 504,
+        "y": 1108
       },
       "size": {
         "width": 200,
@@ -11764,8 +11679,8 @@
       "widgetId": "ghstats",
       "name": "Ghstats Widget",
       "position": {
-        "x": 0,
-        "y": 1182
+        "x": 398,
+        "y": 740
       },
       "size": {
         "width": 390,
@@ -11784,8 +11699,8 @@
       "widgetId": "ascii-art",
       "name": "Ascii-art Widget",
       "position": {
-        "x": 473,
-        "y": 1224
+        "x": 81,
+        "y": 764
       },
       "size": {
         "width": 240,
@@ -23282,10 +23197,27 @@
       "locked": false,
       "visible": true,
       "zIndex": 13
+    },
+    {
+      "instanceId": "widget_1787042728610",
+      "widgetId": "codeweb-showcase-cards",
+      "name": "Codeweb-showcase-cards Widget",
+      "position": {
+        "x": 8,
+        "y": 1244
+      },
+      "size": {
+        "width": 784,
+        "height": 224
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
     }
   ],
   "globalStyles": {
-    "backgroundColor": "transparent",
+    "backgroundColor": "#000000",
     "textColor": "#e5e5e5",
     "accentColor": "#ffb800",
     "borderColor": "#1f1f1f",
