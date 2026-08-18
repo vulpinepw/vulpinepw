@@ -1,4 +1,5 @@
 {
+  "username": "vulpinepw",
   "widgets": [
     {
       "widgetId": "ascii-art",
@@ -11646,7 +11647,9 @@
       },
       "config": {
         "hideBorder": true,
-        "hideDecorations": true
+        "hideDecorations": true,
+        "branch": "main",
+        "theme": "dark"
       },
       "locked": false,
       "visible": true,
@@ -23294,5 +23297,6 @@
     "templateStyle": "terminal",
     "transparentBackground": false
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default"
 }
