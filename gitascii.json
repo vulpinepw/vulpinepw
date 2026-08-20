@@ -1,4 +1,5 @@
 {
+  "username": "vulpinepw",
   "widgets": [
     {
       "widgetId": "ascii-art",
@@ -23228,5 +23229,6 @@
     "templateStyle": "terminal",
     "transparentBackground": false
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default"
 }
