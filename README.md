@@ -1,6 +1,6 @@
-<a href="https://vulpine.at">
+<a href="https://gitascii.com">
   <img
-    src="https://www.gitascii.com/api/vulpinepw?v=1787043133340"
+    src="https://gitascii.com/api/vulpinepw?v=1787241602045"
     alt="GitAscii Widget"
     width="100%"
   />
